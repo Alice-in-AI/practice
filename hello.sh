@@ -1,2 +1,2 @@
-echo "hello week1"
+echo "hello HELLO! week1"
 
